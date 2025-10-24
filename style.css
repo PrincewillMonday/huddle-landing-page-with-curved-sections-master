@@ -9,6 +9,7 @@
 
 body {
     background: hsl(207, 100%, 98%);
+    background: gray;
     color: hsl(192, 100%, 9%);
     line-height: 1.6;
     width: 100vw;
@@ -118,7 +119,7 @@ main {
 .grow-section {
     width: 100%;
     height: 300px;
-    background-image: url(/images/bg-section-top-desktop-1.svg);
+    /* background-image: url(/images/bg-section-top-desktop-2.svg); */
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
